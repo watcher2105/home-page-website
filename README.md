@@ -1,5 +1,6 @@
 Home page Website
- This project is a simple yet elegant homepage template designed with HTML and CSS. It features a full-screen background video, a navigation bar with a dropdown menu, and several button links for easy navigation.
+
+This project is a simple yet elegant homepage template designed with HTML and CSS. It features a full-screen background video, a navigation bar with a dropdown menu, and several button links for easy navigation.
 
 Features
 - Responsive Navigation Bar: A fixed navigation bar with multiple menu options, including a dropdown menu.
